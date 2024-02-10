@@ -1,0 +1,16 @@
+
+.layout_image{
+    background-image: url("../images/layouts_img.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: 100% 22%;
+    display: flex;
+    align-items: center;
+}
+.layout_image h1{
+    color: white;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
